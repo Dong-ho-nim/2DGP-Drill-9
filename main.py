@@ -48,6 +48,7 @@ running = True
 
 open_canvas()
 reset_world()
+
 # game loop
 while running:
     handle_events()
